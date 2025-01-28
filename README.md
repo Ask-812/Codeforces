@@ -5,3 +5,4 @@
 ===> After Adding files just use Ctrl+shift+B to run your files <br>
 ===> https://www.geeksforgeeks.org/competitive-coding-setup-for-c-and-python-in-vs-code-using-python-script/ <br>
    refer this article for better understanding
+python cp.py div2_997 6 py
